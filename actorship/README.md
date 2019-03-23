@@ -12,28 +12,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Any person or entity that interacts with us through public channels
 
-* Follow Code of Conduct \(don't be an ass\)
-* MESH
-  * Manage
-  * Engage
-  * Share
-  * Help
+* Follow [Code of Conduct](code-of-conduct.md) \(don't be an ass\)
+* MESH - Manage, Engage, Share, Help
 
 ### Collaborator
 
 Those who labors with us; an associate in labor.
 
 * Community's list
-* Accountability 
+* Soft Accountability 
 
 ### Team
 
 That's us.
 
 * Collaborator's list
-* Minimum Viable Bandwidth
 * Liveness 
-* Doubled Accountability
+* Hard Accountability
 
 
 

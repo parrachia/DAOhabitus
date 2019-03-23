@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
+* [DAO Habitus](README.md)
 * [Decision-Making](decision-making/README.md)
   * [Git Based Governance](decision-making/git-based-governance.md)
   * [Simple Decision-Making Process](decision-making/simple-decision-making-process.md)

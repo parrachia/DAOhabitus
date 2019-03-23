@@ -10,5 +10,7 @@
 
 {% embed url="https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9" %}
 
+{% embed url="https://docs.google.com/spreadsheets/d/1xYCr46GeyeZ-JJMyxWRM0sb-1DI3lqNGwQ5iBxKCOqA/edit\#gid=0" %}
+
 
 

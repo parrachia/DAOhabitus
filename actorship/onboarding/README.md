@@ -20,7 +20,7 @@ description: 'All Onboarding documentation should be found here, somehow.'
 {% endtab %}
 
 {% tab title="Team" %}
-{% embed url="https://parrachia.gitbook.io/dao-habitus" %}
+{% embed url="https://parrachia.gitbook.io/dao-habitus/" %}
 {% endtab %}
 {% endtabs %}
 

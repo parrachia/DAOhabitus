@@ -11,9 +11,11 @@
     * [Ledger of Membership Lineage](actorship/onboarding/ledger-of-membership-lineage.md)
   * [Code of Conduct](actorship/code-of-conduct.md)
   * [Offboarding](actorship/offboarding.md)
-* [Memes](memes.md)
 
-## Proposals
+## Resources
 
-* [Template](proposals/template.md)
+* [Taticals](resources/taticals.md)
+* [Templates](resources/template.md)
+* [References](resources/references/README.md)
+  * [Memes](resources/references/memes.md)
 

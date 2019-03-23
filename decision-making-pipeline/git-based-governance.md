@@ -1,10 +1,18 @@
+---
+description: 'Governance is messy, Git is neat. So lets use it for that!'
+---
+
 # Git Based Governance
 
 ## Proposal: Git Based Governance
 
 Governance is messy, Git is neat. So lets use it for that!
 
-**Why?** See _"Why Git?"_ below. **What?** 2 Git repositories with all validated documentation, blank files for those yet to come + a kanban, somehow. **How?** Honestly I have no clue.
+**Why?** See _"Why Git?"_ below. 
+
+**What?** 2 Git repositories with all validated documentation, blank files for those yet to come + a kanban, somehow. 
+
+**How?** Honestly I have no clue.
 
 ### Governance
 

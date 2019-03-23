@@ -6,9 +6,7 @@ description: >-
 
 # Decision-Making
 
-
-
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 {% page-ref page="simple-decision-making-process.md" %}
 

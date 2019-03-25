@@ -11,7 +11,7 @@ description: >-
 
 Governance is messy, Git is neat. So lets use it for that!
 
-**Why?** See _"Why Git?"_ below. 
+**Why?** See _"_[_Why Git?_](https://parrachia.gitbook.io/dao-habitus/#why-git)_"_ below. 
 
 **What?** 2 Git repositories \(1 public, 1 unlisted\) with all validated documentation, blank files for those yet to come + a kanban, somehow. 
 
@@ -23,13 +23,21 @@ Governance is messy, Git is neat. So lets use it for that!
 
 We can conceive of many ways to establish the legitimacy of decisions. In some contexts, voting can play a critical role. In others, it’s not needed.[\*](https://www.tonysheng.com/voting-governance)
 
-### 
+## What making decisions look like?
+
+{% page-ref page="decision-making/" %}
+
+## And who are we?
+
+{% page-ref page="actorship/" %}
 
 ## Why Git
 
 {% embed url="https://www.atlassian.com/git/tutorials/why-git/" %}
 
-#### Lets design our governance around Git's main traits:
+
+
+#### DAO Habitus is about designing our governance around Git's main traits:
 
 * Distributed
 * Collaboration driven

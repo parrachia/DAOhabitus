@@ -4,6 +4,10 @@ description: 'All Onboarding documentation should be found here, somehow.'
 
 # Onboarding
 
+{% hint style="info" %}
+"What are the general parameters we are looking for in new members? Can we create a system where we can score prospective additions acc to these parameters?"
+{% endhint %}
+
 ## Guides
 
 {% tabs %}

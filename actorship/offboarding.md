@@ -25,6 +25,7 @@ The actual [Offboarding Ritual](offboarding.md) should look just like a [Onboard
   * 1 critical breach
 * Accountability
   * Critical non delivery 
+  * Conflict of interest
 * MESH
   * Complain about too many memes
 

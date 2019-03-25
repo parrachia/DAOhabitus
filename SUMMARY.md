@@ -12,6 +12,11 @@
   * [Code of Conduct](actorship/code-of-conduct.md)
   * [Offboarding](actorship/offboarding.md)
 
+## Circles
+
+* [Legal](circles/legal.md)
+* [Research](circles/research.md)
+
 ## Resources
 
 * [Taticals](resources/taticals.md)

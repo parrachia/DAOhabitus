@@ -24,3 +24,14 @@
 * [References](resources/references/README.md)
   * [Memes](resources/references/memes.md)
 
+## Scaffolding
+
+* [Website](scaffolding/website/README.md)
+  * [Home](scaffolding/website/home.md)
+  * [DAO Incubation](scaffolding/website/dao-incubation.md)
+  * [Ecosystem](scaffolding/website/ecosystem.md)
+  * [Content](scaffolding/website/content.md)
+  * [About](scaffolding/website/about.md)
+  * [Team](scaffolding/website/team.md)
+  * [Images](scaffolding/website/images.md)
+

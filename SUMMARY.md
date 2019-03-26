@@ -33,5 +33,4 @@
   * [Content](scaffolding/website/content.md)
   * [About](scaffolding/website/about.md)
   * [Team](scaffolding/website/team.md)
-  * [Images](scaffolding/website/images.md)
 

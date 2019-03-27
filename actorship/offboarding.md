@@ -29,5 +29,5 @@ The actual [Offboarding Ritual](offboarding.md) should look just like a [Onboard
 * MESH
   * Complain about too many memes
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image.png)
 

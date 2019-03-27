@@ -45,7 +45,9 @@ We can conceive of many ways to establish the legitimacy of decisions. In some c
 * Safe environment to work in
 * Fast and Agile
 
+## Habitus
 
+![](.gitbook/assets/image%20%282%29.png)
 
 
 

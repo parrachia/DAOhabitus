@@ -33,4 +33,5 @@
   * [Content](scaffolding/website/content.md)
   * [About](scaffolding/website/about.md)
   * [Team](scaffolding/website/team.md)
+* [Git](scaffolding/git.md)
 

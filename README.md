@@ -49,5 +49,7 @@ We can conceive of many ways to establish the legitimacy of decisions. In some c
 
 ![](.gitbook/assets/image%20%282%29.png)
 
+{% embed url="https://www.powercube.net/other-forms-of-power/bourdieu-and-habitus/" %}
+
 
 

@@ -4,7 +4,7 @@
 
 ## Gitbook
 
-
+Lorem ipsum
 
 ## Github
 
@@ -25,7 +25,7 @@ _Click on the image for a larger version_
 | Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit. | [![diff](https://guides.github.com/activities/hello-world/diff.png)](https://guides.github.com/activities/hello-world/diff.png) |
 | When you’re satisfied that these are the changes you want to submit, click the big green **Create Pull Request** button. | [![create-pull](https://guides.github.com/activities/hello-world/create-pr.png)](https://guides.github.com/activities/hello-world/create-pr.png) |
 | Give your pull request a title and write a brief description of your changes. | [![pr-form](https://guides.github.com/activities/hello-world/pr-form.png)](https://guides.github.com/activities/hello-world/pr-form.png) |
- 
+
 
 
 {% embed url="https://www.earthdatascience.org/workshops/intro-version-control-git/pull-request/" %}

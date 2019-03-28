@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/git.png)
 
-## Gitbook
+## Gitbook 
 
 Lorem ipsum
 

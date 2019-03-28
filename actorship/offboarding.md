@@ -31,3 +31,14 @@ The actual [Offboarding Ritual](offboarding.md) should look just like a [Onboard
 
 ![](../.gitbook/assets/image.png)
 
+### Human check
+
+* Administrative circle receives a complaint/ application for offboarding OR notices a liveness/ accountability lapse
+  * Through internal mechanisms, circle operatives discuss best course of action
+   * If they determine that offboarding is in order, circle lead informs offboarded party
+   * If they determine offboarding is the wrong choice, they take no action
+   * In either case, they log a record of their decision-making process
+
+### Aftermath of an offboarding
+
+* Administrative circle oversees the redistribution of any crucial roles the offboarded member had been responsible for

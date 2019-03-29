@@ -8,6 +8,14 @@ description: >-
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
+## Risk Assessment
+
+{% page-ref page="risk-assessment.md" %}
+
+How do we define risk, ambiguity and loss; how different aversions work; and most importantly a few heuristics on how to put those understandings in practice.
+
+## \(Actual\) Decision-Making
+
 {% page-ref page="simple-decision-making-process.md" %}
 
 Prioritizes execution over deliberation. Empowering a team to execute comes with the risk of making more mistakes.
@@ -19,6 +27,10 @@ Is only needed when there is lack of clarity about a decision that is _higher ri
 {% hint style="info" %}
 If the decision is both ambiguous and high-stakes, we use the **framework**. If the decision is only ambiguous, the decision-maker can **collaborate** with a few people and make the call. And if the decision is neither ambiguous or high-stakes, the decision-maker should simply **move forward**. In all cases, **communication** to the team completes the decision.
 {% endhint %}
+
+## Signaling 
+
+{% page-ref page="signaling.md" %}
 
 ### **Communication is critical to the process.**
 

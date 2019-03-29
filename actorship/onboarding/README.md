@@ -12,13 +12,13 @@ description: 'All Onboarding documentation should be found here, somehow.'
 
 {% tabs %}
 {% tab title="Community" %}
-{% page-ref page="../code-of-conduct.md" %}
+{% page-ref page="../code-of-conduct/" %}
 
 {% embed url="https://medium.com/dao-incubator/introducing-dao-incubator-311070c555" %}
 {% endtab %}
 
 {% tab title="Collaborator" %}
-{% page-ref page="../code-of-conduct.md" %}
+{% page-ref page="../code-of-conduct/" %}
 
 {% page-ref page="../../decision-making/" %}
 {% endtab %}

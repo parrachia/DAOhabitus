@@ -10,6 +10,7 @@
   * [Onboarding](actorship/onboarding/README.md)
     * [Application Template](actorship/onboarding/application-template.md)
     * [Ledger of Membership Lineage](actorship/onboarding/ledger-of-membership-lineage.md)
+    * [Orientation](actorship/onboarding/orientation.md)
   * [Code of Conduct](actorship/code-of-conduct/README.md)
     * [Accountability](actorship/code-of-conduct/accountability.md)
   * [Offboarding](actorship/offboarding.md)

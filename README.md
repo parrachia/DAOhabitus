@@ -23,11 +23,11 @@ Governance is messy, Git is neat. So lets use it for that!
 
 We can conceive of many ways to establish the legitimacy of decisions. In some contexts, voting can play a critical role. In others, it’s not needed.[\*](https://www.tonysheng.com/voting-governance)
 
-## What making decisions look like?
+### What making decisions look like?
 
 {% page-ref page="decision-making/" %}
 
-## And who are we?
+### And who are we?
 
 {% page-ref page="actorship/" %}
 
@@ -45,8 +45,6 @@ We can conceive of many ways to establish the legitimacy of decisions. In some c
 
 ## Habitus
 
-![](.gitbook/assets/image%20%284%29.png)
-
 > Habitus is ‘the way society becomes deposited in persons in the form of lasting dispositions, or trained capacities and structured propensities to think, feel and act in determinant ways, which then guide them’
 
 Bourdieu sees power as culturally and symbolically created, and constantly re-legitimised through an interplay of agency and structure. The main way this happens is through what he calls ‘habitus’ or socialised norms or tendencies that guide behaviour and thinking.   
@@ -56,7 +54,7 @@ _\(Wacquant 2005: 316, cited in Navarro 2006: 16\)._
 
 {% embed url="https://mens-wisdom-now.blogspot.com/2012/09/structuring-structures-and-structured.html" %}
 
-
+![](.gitbook/assets/image%20%284%29.png)
 
 
 

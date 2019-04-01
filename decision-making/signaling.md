@@ -2,6 +2,12 @@
 
 ### Environments
 
+**Production**: The environment configured to host the final release version of a product targeting end users. It is optimized for security and performance. It is hosted on a live server. It requires alerted and urgent support. It is data-critical. Therefore, its data is backed up regularly. It also involves risk management and disaster recovery. The production environment is configured to show friendly errors to end users.
+
+**Staging**: The environment configured to host the release candidate of the application after declaring a code freeze. It targets project manager/owner alongside the development team to agree upon the scope of the release candidate. It involves quality assurance and also the development team to do the final fixes and final furnishing before releasing to production. The best practice is to mimic the production environment by using the latest data available from a live DB copied from the production environment. Normally, the staging environment is only accessible by the internal team and stakeholders, therefore, it is either secured on a public server or published on an intranet environment if all stakeholders can access a local network. The staging environment is configured to show medium or full technical errors.
+
+**Development**: The private environment configured by a single developer on his machine to check his/her own work during a development cycle, normally, called a sprint in a scrum environment. The development environment is configured to show full technical errors.
+
 or smaller companies \(it's not clear how big yours is\), three environments \(dev, stage, production\) are common. Larger companies will often have a QA environment between dev and stage.
 
 These normally break down as follows:

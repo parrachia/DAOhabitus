@@ -44,7 +44,7 @@ While **ambiguity aversion** is a preference for known risks over unknown risks.
 Information Asymmetry sucks and often leads to [bad outcomes](https://www.jofreeman.com/joreen/tyranny.htm). We should fight it both at systemic and atomic levels. [Signalling and screening game](signaling.md) are proposed further on but beware the dangers of **moral hazards**.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 In economics, **moral hazard** occurs when someone increases their exposure to risk when insured, especially when a person takes more risks because someone else bears the cost of those risks.
 

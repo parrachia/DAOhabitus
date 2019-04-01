@@ -23,7 +23,7 @@ Structure removes ambiguity around process and should lead to better decisions w
 3. **Decision** documents the decision made, the rationale for the decision, and the plan to communicate the decision back to those impacted. _You are here_, this is literally what this proposal is about.
 
 {% hint style="info" %}
-There are multiple templates, where the **IDM** below is the preferred choice, **Decentraland's framework** is also useful for when it's far away from the next call or too big for Trello \(using [Loomio](https://www.loomio.org/g/X5fYj0u1/daoincubator) instead\). 
+There are multiple templates, where the **IDM** below is the preferred choice, **Decentraland's framework** is also useful for when it's far away from the next call \(or not enough quorum\) or too big for Trello \(using [Loomio](https://www.loomio.org/g/X5fYj0u1/daoincubator) instead\). 
 {% endhint %}
 
 #### Default Template

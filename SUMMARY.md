@@ -26,8 +26,8 @@
 * [Roadmap](resources/roadmap.md)
 * [Taticals](resources/taticals.md)
 * [Templates](resources/template.md)
-* [References](resources/references/README.md)
-  * [Memes](resources/references/memes.md)
+* [References](resources/references.md)
+* [Memes](resources/memes.md)
 
 ## Scaffolding
 

@@ -1,5 +1,7 @@
 # Simple Decision-Making Process
 
+![](../.gitbook/assets/decisions-simple.png)
+
 Prioritizes execution over deliberation. Empowering a team to execute comes with the risk of making more mistakes.
 
 * First, we shall establish a [**simple decision-making process**](). 

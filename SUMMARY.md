@@ -23,6 +23,7 @@
 
 ## Resources
 
+* [Roadmap](resources/roadmap.md)
 * [Taticals](resources/taticals.md)
 * [Templates](resources/template.md)
 * [References](resources/references/README.md)

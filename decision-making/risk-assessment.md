@@ -1,12 +1,16 @@
 # Risk Assessment
 
+![](../.gitbook/assets/decisions-1.png)
+
 ## What does it looks like?
 
 The scenario is ubiquitous: either you don’t have enough information to feel certain you’re making the right decision or you don’t know you’re missing key information.
 
-* If you're wondering about a needed decision, then it is ambiguous. 
-* If it's the 1st time such decision is to be made in the organization, then there is ambiguity even if it's clear elsewhere
-* Double check assumptions, some things taken by granted end up harboring ambiguity and hindering opportunities \(e.g. polls, surveys, votes should either have a template or be validated before launching\)
+#### Ambiguity
+
+* If you're wondering about a needed decision, then there is some ambiguous already. 
+* If such decision has never been made before by the organization, then is ambiguity even if another org elsewhere have tried it.
+* Double check assumptions, some things taken by granted end up harboring ambiguity and hindering opportunities \(e.g. polls, surveys, votes should follow a template and/or be validated before launching\)
 * How long will we be committed to the decision? 
 * High stakes? Ambiguous.
 
@@ -15,7 +19,7 @@ The scenario is ubiquitous: either you don’t have enough information to feel c
 Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made. Another way to look at it is about its impact, how many people affected inside and outside the organization.
 
 * How long will we be committed to the decision?
-* Will it involve inputs from entities elsewhere?
+* Will it involve inputs from member and/or entities elsewhere?
 * How much will it impact the rest of the team?
 
 ## Risk x Ambiguity X Loss
@@ -41,12 +45,13 @@ While **ambiguity aversion** is a preference for known risks over unknown risks.
 ## Information Asymmetry 
 
 {% hint style="info" %}
-Information Asymmetry sucks and often leads to [bad outcomes](https://www.jofreeman.com/joreen/tyranny.htm). We should fight it both at systemic and atomic levels. [Signalling and screening game](signaling.md) are proposed further on but beware the dangers of **moral hazards**.
+Information Asymmetry sucks and often leads to [bad outcomes](https://www.jofreeman.com/joreen/tyranny.htm). We should fight it both at systemic and atomic levels. [Signalling and screening games](signaling.md) are proposed further on but either way beware the dangers of **moral hazards**.
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-In economics, **moral hazard** occurs when someone increases their exposure to risk when insured, especially when a person takes more risks because someone else bears the cost of those risks.
+**Adverse selection** is a term commonly used in economics, insurance, and risk management that describes a situation where participation is affected by asymmetric information.  
+M**oral hazard** occurs when someone increases their exposure to risk when insured, especially when a person takes more risks because someone else bears the cost of those risks.
 
 _For example, with respect to the originators of_ [_subprime loans_](https://en.wikipedia.org/wiki/Subprime_loans)_, many may have suspected that the borrowers would not be able to maintain their payments in the long run and that, for this reason, the loans were not going to be worth much. Still, because there were many buyers of these loans \(or of pools of these loans\) willing to take on that risk, the originators did not concern themselves with the potential long-term consequences of making these loans. After selling the loans, the originators bore none of the risk so there was little to no incentive for the originators to investigate the long-term value of the loans._
 

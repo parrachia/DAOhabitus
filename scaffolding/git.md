@@ -4,7 +4,11 @@
 
 ## Gitbook 
 
-Lorem ipsum
+{% embed url="https://www.gitbook.com/" %}
+
+{% hint style="info" %}
+In the future we will either have accounts for everybody or at least a multi-user account so every member may have editing access here. Until then both spaces are editable using the "Edit with Github" button.
+{% endhint %}
 
 ## Github
 

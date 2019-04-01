@@ -4,6 +4,8 @@ description: A framework that offers structure to the ambiguous and high-risk de
 
 # Structured Decision-Making Framework
 
+![](../.gitbook/assets/decisions-complex.png)
+
 Is only needed when there is lack of clarity about a decision that is _higher risk_. Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made.[\*]()
 
 Structure removes ambiguity around process and should lead to better decisions with lower overhead. The framework has three stages: **\(1\)** setting the parameters, **\(2\)** deliberation, and **\(3\)** decision.

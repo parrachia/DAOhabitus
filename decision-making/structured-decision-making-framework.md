@@ -30,7 +30,7 @@ There are multiple templates, where the **IDM** below is the preferred choice, *
 
 {% page-ref page="../resources/template/integrative-decision-making.md" %}
 
-#### Plan B
+#### Plan B \(Loomio\)
 
 {% page-ref page="../resources/template/decentraland-coinbase-decision-making-framework.md" %}
 

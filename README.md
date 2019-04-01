@@ -13,7 +13,10 @@ Governance is messy, Git is neat. So lets use it for that!
 
 **Why?** See _"_[_Why Git_](https://parrachia.gitbook.io/dao-habitus/#why-git)_"_ below. 
 
-**What?** 2 Gitbook spaces, 1 unlisted with all the messy but stable stuff; 1 public with polished and up-to-date documentation + a kanban, somehow. 
+**What?** Structured Governance in 2 [Environments](decision-making/signaling.md#environments) + a [kanban](https://trello.com/b/XrAjqdlO/dao-incubator), somehow.  
+\* Staging \(here\) - unlisted with all the messy but stable stuff  
+\* [Production](https://dao-incubator.gitbook.io/wiki/) - public with polished and up-to-date documentation  
+_Both as Gitbook spaces \(synced with Github repositories\)_
 
 **How?** Honestly I have no clue.
 
@@ -27,9 +30,13 @@ We can conceive of many ways to establish the legitimacy of decisions. In some c
 
 {% page-ref page="decision-making/" %}
 
-### And who are we?
+### Who are we?
 
 {% page-ref page="actorship/" %}
+
+### Where are we going?
+
+{% page-ref page="resources/roadmap.md" %}
 
 ## Why Git
 

@@ -6,7 +6,11 @@ description: A framework that offers structure to the ambiguous and high-risk de
 
 ![](../.gitbook/assets/decisions-complex.png)
 
-Is only needed when there is lack of clarity about a decision that is _higher risk_. Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made.[\*]()
+{% hint style="info" %}
+Simply put, if \(after proper [assessment](risk-assessment.md)\) a decision impacts many stakeholders it should follow a structured **framework:** build a proposal, validate it, decide \[...\] - then finally make sure to [signal](signaling.md) it.  
+{% endhint %}
+
+A **Structured Decision-Making Framework** is only needed when there is lack of clarity about a decision that is _higher risk_. Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made.[\*]()
 
 Structure removes ambiguity around process and should lead to better decisions with lower overhead. The framework has three stages: **\(1\)** setting the parameters, **\(2\)** deliberation, and **\(3\)** decision.
 
@@ -14,7 +18,7 @@ Structure removes ambiguity around process and should lead to better decisions w
 2. **Deliberation** is voting on the options. [Loomio](https://www.loomio.org/g/X5fYj0u1/daoincubator)
 3. **Decision** documents the decision made, the rationale for the decision, and the plan to communicate the decision back to those impacted. _You are here_, this is literally what this proposal is about.
 
-#### 1. Set the parameters <a id="8bdd"></a>
+## 1. Set the parameters
 
 In this step you’ll get everyone on the same page about how the decision will be made. It helps to do this up front to get buy-in and minimize second guessing down the road.
 
@@ -54,7 +58,7 @@ Balance these trade offs to find the right number of deciders for your particula
 
 In general, if the cost of a wrong decision is tolerable \(low stakes\), choose a single decision maker to capture the speed bonus. If a wrong decision would be irreversible or too costly, add more decision makers.
 
-#### 2. Deliberate <a id="e9a0"></a>
+## 2. Deliberate
 
 Next you’ll need to get all the input providers \(and decision makers\) in a room to share information, and capture their votes.Sample deliberation step where you capture votes, and pros/cons of each option.
 
@@ -70,7 +74,7 @@ Occasionally you will have clear consensus in the room at this step, and the dec
 
 If necessary, you can complete additional rounds of discussion and voting, within the constraints of the decision date.
 
-#### 3. Decide <a id="7cd9"></a>
+## 3. Decide
 
 ![](https://cdn-images-1.medium.com/max/800/0*Dlt5WeAA3p6DviMs.)Memorialize the decision for later view.
 
@@ -80,7 +84,7 @@ If necessary, you can complete additional rounds of discussion and voting, withi
 
 If the decision was contentious, delivering it via email will give people time to process asynchronously, instead of getting their first reactions live in the room.
 
-#### Conclusion <a id="cb17"></a>
+## Conclusion
 
 Difficult decisions can be a source of stress in many organizations, but they don’t have to be. In high performing organizations, they are opportunities to make rapid progress, innovate, and win.
 
@@ -102,6 +106,4 @@ There are many ways to mess up decision making, and just like anything you will 
 
 This framework has helped Coinbase make better decisions, faster, with more buy in. Hopefully you find it useful on your team!  
 
-
-If the decision is both ambiguous and high-stakes, we use the framework. If the decision is only ambiguous, the decision-maker can collaborate with a few people and make the call. And if the decision is neither ambiguous or high-stakes, the decision-maker should simply move forward. In all cases, communication to the team completes the decision.
 

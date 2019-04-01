@@ -1,3 +1,7 @@
+---
+description: A safe space for newcomers
+---
+
 # Orientation
 
 ## Platforms

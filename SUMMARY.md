@@ -24,8 +24,13 @@
 ## Resources
 
 * [Roadmap](resources/roadmap.md)
-* [Taticals](resources/taticals.md)
-* [Templates](resources/template.md)
+* [Taticals](resources/taticals/README.md)
+  * [Core Tacticals](resources/taticals/core-tacticals.md)
+  * [WG Tacticals](resources/taticals/wg-tacticals/README.md)
+    * [Tactical \#1](resources/taticals/wg-tacticals/tactical-1.md)
+* [Templates](resources/template/README.md)
+  * [Integrative Decision Making](resources/template/integrative-decision-making.md)
+  * [Decentraland / Coinbase Decision-making Framework](resources/template/decentraland-coinbase-decision-making-framework.md)
 * [References](resources/references.md)
 * [Memes](resources/memes.md)
 

@@ -14,13 +14,17 @@ The scenario is ubiquitous: either you don’t have enough information to feel c
 * How long will we be committed to the decision? 
 * High stakes? Ambiguous.
 
-#### High Stakes
+#### High Stakes/Risk
 
-Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made. Another way to look at it is about its impact, how many people affected inside and outside the organization.
+Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made. Another way to look at it is about its impact \(i.e. what is at stake\), how many people affected inside and/or outside the organization.
 
 * How long will we be committed to the decision?
 * Will it involve inputs from member and/or entities elsewhere?
 * How much will it impact the rest of the team?
+
+{% hint style="info" %}
+High **risk** means higher chance for trouble, while high **stakes** means there is much to lose if in trouble.
+{% endhint %}
 
 ## Risk x Ambiguity X Loss
 

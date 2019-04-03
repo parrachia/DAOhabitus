@@ -11,7 +11,21 @@ After [assessing](risk-assessment.md) and [deciding](./), it is time to make sur
 
 ## KISS \(Keep It Small and Simple[\*](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid)\)
 
-If a decision is both small & simple / straightforward & low stakes then it should be anchored to an clear actionable. If not all, most actionables should be listed in our kanban board. Thus be most reliable Otherwise it should 
+If a decision is both small & simple / straightforward & low stakes then it should be anchored to an clear actionable. If not all, most actionables should be listed on our [kanban board](https://trello.com/b/XrAjqdlO/dao-incubator). Thus, our most reliable rule of thumb for simple decision making is:
+
+1. Find/create a card 
+2. Change the card
+3. Validate with peers
+4. Have fun, drink water
+
+ Otherwise it is suggested:
+
+* Clearly delegate the actual trello card interaction to someone else
+* If absolutely incompatible with kanban/trello, just write something on Discord
+
+## Structured Decisions
+
+Gladly their structure are more then mere pain in the ass and should have an automated log and/or archive of decisions and interactions. 
 
 ## Where?
 

@@ -2,7 +2,8 @@
 
 | Referrer | Acolyte | Date |
 | :--- | :--- | :--- |
-| "Alice Placeholder" | "Bob Lorem Ipsum" | YYYY-MM-DD |
+| Cem | Tuna Ozen | April 2nd, 2019 |
+| Cem | Lili | April 3rd, 2019 |
 
 
 

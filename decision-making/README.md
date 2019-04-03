@@ -1,14 +1,14 @@
 ---
 description: >-
-  “Ultimately, a company’s value is just the sum of the decisions it makes and
-  executes.”
+  “Ultimately, a organization’s value is just the sum of the decisions it makes
+  and executes.”
 ---
 
 # Decision-Making
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-## Risk Assessment
+## 1. Risk Assessment
 
 {% page-ref page="risk-assessment.md" %}
 
@@ -32,7 +32,7 @@ If the decision is both ambiguous and high-stakes, we use the **framework**. If 
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
-## Signaling 
+## 3. Signaling 
 
 {% page-ref page="signaling.md" %}
 

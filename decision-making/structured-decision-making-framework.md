@@ -26,11 +26,13 @@ Structure removes ambiguity around process and should lead to better decisions w
 There are multiple templates, where the **IDM** below is the preferred choice, **Decentraland's framework** is also useful for when it's far away from the next call \(or not enough quorum\) or too big for Trello \(using [Loomio](https://www.loomio.org/g/X5fYj0u1/daoincubator) instead\). 
 {% endhint %}
 
-#### Default Template
+### Consent based \(default\)
 
 {% page-ref page="../resources/template/integrative-decision-making.md" %}
 
-#### Plan B \(Loomio\)
+### Consensus based
+
+{% page-ref page="../resources/template/loomio-best-practices.md" %}
 
 {% page-ref page="../resources/template/decentraland-coinbase-decision-making-framework.md" %}
 
@@ -59,6 +61,6 @@ There are many ways to mess up decision making, and just like anything you will 
 * **Too much process** Using the decision making process on a low-risk decision when the manager could have unilaterally, and more quickly, made it in the moment.
 * **Unintentional democracy** The decision maker feels pressured to choose the option with the most votes, abdicating their responsibility to choose what they feel is really the best option.
 
-This framework has helped both Coinbase and Decentraland make better decisions, faster, with more buy in. Hopefully we will find it useful as well!  
+This framework is derived from another that has helped both Coinbase and Decentraland make better decisions, faster, with more buy in. Hopefully we will find it useful as well!  
 
 

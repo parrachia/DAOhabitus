@@ -30,6 +30,7 @@
     * [Tactical \#1](resources/taticals/wg-tacticals/tactical-1.md)
 * [Templates](resources/template/README.md)
   * [Integrative Decision Making](resources/template/integrative-decision-making.md)
+  * [Loomio - Best practices](resources/template/loomio-best-practices.md)
   * [Decentraland / Coinbase Decision-making Framework](resources/template/decentraland-coinbase-decision-making-framework.md)
 * [References](resources/references.md)
 * [Memes](resources/memes.md)

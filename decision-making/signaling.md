@@ -9,6 +9,20 @@ After [assessing](risk-assessment.md) and [deciding](./), it is time to make sur
 > "If we can’t report well, we don’t pursue."   
 > @nonprofitbecky
 
+### **Communication is critical to the process.**
+
+> A decision is not complete until all impacted by that decision are notified. if you'd never abandon a puppy, why abandon decisions outputs? Think about the puppies.
+
+The decision-maker is accountable for determining the best format to deliver this communication. For example, if everybody is highly impacted, an email to all employees may be the best way to communicate the decision. If nobody is directly impacted today, an FYI in a slack channel and a note in a design doc may be sufficient.
+
+#### Decisions outputs
+
+_What are they and where do they go after decisions have been made?_
+
+Documentation, Logs, notifications to impacted parties. Well, from now on, we should house them here in this neat piece of the cyberspace. 
+
+
+
 ## KISS \(Keep It Small and Simple[\*](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid)\)
 
 If a decision is both small & simple / straightforward & low stakes then it should be anchored to an clear actionable. If not all, most actionables should be listed on our [kanban board](https://trello.com/b/XrAjqdlO/dao-incubator). Thus, our most reliable rule of thumb for simple decision making is:

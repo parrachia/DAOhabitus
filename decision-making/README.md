@@ -6,15 +6,15 @@ description: >-
 
 # Decision-Making
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 ## 1. Risk Assessment
 
-{% page-ref page="risk-assessment.md" %}
-
 How do we define risk, ambiguity and loss; how different aversions work; and most importantly a few heuristics on how to put those understandings in practice.
 
-## \(Actual\) Decision-Making
+{% page-ref page="risk-assessment.md" %}
+
+## Decision-Making
 
 {% page-ref page="simple-decision-making-process.md" %}
 
@@ -30,23 +30,15 @@ If the decision is both ambiguous and high-stakes, we use the **framework**. If 
 
 ### What does good decision making look like?
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ## 3. Signaling 
 
-{% page-ref page="signaling.md" %}
-
-### **Communication is critical to the process.**
-
 > A decision is not complete until all impacted by that decision are notified. if you'd never abandon a puppy, why abandon decisions outputs? Think about the puppies.
 
-The decision-maker is accountable for determining the best format to deliver this communication. For example, if everybody is highly impacted, an email to all employees may be the best way to communicate the decision. If nobody is directly impacted today, an FYI in a slack channel and a note in a design doc may be sufficient.
+{% page-ref page="signaling.md" %}
 
-#### Decisions outputs
-
-_What are they and where do they go after decisions have been made?_
-
-Documentation, Logs, notifications to impacted parties. Well, from now on, we should house them here in this neat piece of the cyberspace. 
+![ Think about the puppies; source: @catsonsynthesizersinspace](../.gitbook/assets/image%20%281%29.png)
 
 
 

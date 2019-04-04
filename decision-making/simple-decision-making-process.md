@@ -29,10 +29,10 @@ If a decision is both small & simple / straightforward & low stakes then it shou
 3. Validate with peers
 4. Have fun, drink water
 
- Otherwise it is suggested:
+ Otherwise:
 
-* Clearly delegate the actual trello card interaction to someone else
 * If absolutely incompatible with kanban/trello, just write something on Discord
+* Objectively delegate the signalling to someone
 
 {% hint style="info" %}
 However you choose to make a decision, remember it is not finished unless you [communicate it to the team](signaling.md)!

@@ -8,7 +8,7 @@
   * [Signaling](decision-making/signaling.md)
 * [Actorship](actorship/README.md)
   * [Onboarding](actorship/onboarding/README.md)
-    * [Application Template](actorship/onboarding/application-template.md)
+    * [Application Templates](actorship/onboarding/application-template.md)
     * [Ledger of Membership Lineage](actorship/onboarding/ledger-of-membership-lineage.md)
     * [Orientation](actorship/onboarding/orientation.md)
   * [Code of Conduct](actorship/code-of-conduct/README.md)

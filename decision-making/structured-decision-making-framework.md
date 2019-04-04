@@ -7,7 +7,7 @@ description: A framework that offers structure to the ambiguous and high-risk de
 ![](../.gitbook/assets/decisions-complex.png)
 
 {% hint style="info" %}
-Simply put, if \(after proper [assessment](risk-assessment.md)\) a decision impacts many stakeholders it should follow a structured **framework:** build a proposal, validate it, decide \[...\] - then finally make sure to [signal](signaling.md) it.  
+Simply put, if your [assessment](risk-assessment.md) indicates a decision impacts many stakeholders, then it should follow a structured **framework:** build a proposal, validate & vote it, decide & [consolidate](signaling.md) it.  
 {% endhint %}
 
 A **Structured Decision-Making Framework** is only needed when there is lack of clarity about a decision that is _higher risk_. Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made.[\*]()

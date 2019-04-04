@@ -57,7 +57,7 @@ M**oral hazard** occurs when someone increases their exposure to risk when insur
 
 _For example, with respect to the originators of_ [_subprime loans_](https://en.wikipedia.org/wiki/Subprime_loans)_, many may have suspected that the borrowers would not be able to maintain their payments in the long run and that, for this reason, the loans were not going to be worth much. Still, because there were many buyers of these loans \(or of pools of these loans\) willing to take on that risk, the originators did not concern themselves with the potential long-term consequences of making these loans. After selling the loans, the originators bore none of the risk so there was little to no incentive for the originators to investigate the long-term value of the loans._
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 \*\*\*\*
 

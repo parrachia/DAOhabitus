@@ -39,5 +39,5 @@ The actual **Offboarding Ritual** should have the same 4-steps structure of an [
 * MESH
   * Complain about too many memes
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 

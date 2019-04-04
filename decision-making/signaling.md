@@ -105,5 +105,5 @@ This is the currently released version of our work, accessible to the community/
 
 
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 

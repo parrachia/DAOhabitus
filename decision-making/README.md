@@ -6,7 +6,7 @@ description: >-
 
 # Decision-Making
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ## 1. Risk Assessment
 
@@ -30,7 +30,7 @@ If the decision is both ambiguous and high-stakes, we use the **framework**. If 
 
 ### What does good decision making look like?
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ## 3. Signaling 
 
@@ -38,7 +38,7 @@ If the decision is both ambiguous and high-stakes, we use the **framework**. If 
 
 {% page-ref page="signaling.md" %}
 
-![ Think about the puppies; source: @catsonsynthesizersinspace](../.gitbook/assets/image%20%281%29.png)
+![ Think about the puppies; source: @catsonsynthesizersinspace](../.gitbook/assets/image%20%282%29.png)
 
 
 

@@ -1,2 +1,2 @@
-# Taticals
+# Tactical
 

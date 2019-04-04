@@ -21,6 +21,7 @@ Higher risk can mean that the decision has long term implications or that it can
 * How long will we be committed to the decision?
 * Will it involve inputs from member and/or entities elsewhere?
 * How much will it impact the rest of the team?
+* What is there to lose if things complicate, go wrong or FUBAR?
 
 {% hint style="info" %}
 High **risk** means higher chance for trouble, while high **stakes** means there is much to lose if in trouble.
@@ -40,7 +41,7 @@ We refer to the quantifiable part of uncertainty \(or the known unknown\) as **r
 
 > If an hypothetical Russian roulette were to offer, with its ~83% of success, awarding its winner with the keys to Satoshi's Genesis wallet, would you join?
 
-**Risk-averse** decision makers should be interested not only in expected values but also in the variances of outcome variables - _e.g. 1/6 chance of death in each Russian Roulette round should be unbearable no matter the prize_.  
+**Risk-averse** decision makers should be interested not only in expected values but also in the variances of outcome variables - _e.g. 1/6 chance of death in a Russian Roulette game should be unbearable no matter the prize_.  
 
 While **ambiguity aversion** is a preference for known risks over unknown risks. **Loss aversion** refers to people's tendency to prefer avoiding losses to acquiring equivalent gains. 
 

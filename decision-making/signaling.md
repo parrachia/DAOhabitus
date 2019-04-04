@@ -1,3 +1,7 @@
+---
+description: '"Sharing is caring"'
+---
+
 # Signaling
 
 ![](../.gitbook/assets/decisions-3.png)
@@ -5,6 +9,28 @@
 {% hint style="info" %}
 After [assessing](risk-assessment.md) and [deciding](./), it is time to make sure we reduce information asymmetry and  signal some of the: **rationale** \(either in a explicit or contextual manner\), the actual **decision** and it's **implications** \(be it with simple bread-crumbs or a proposal document\).
 {% endhint %}
+
+Helping colleagues understand what is going on, and what is coming to be, nurture **synergies** and **stigmergy**. And those are special ingredients to beautiful things.
+
+## KISS \(Keep It Small and Simple[\*](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid)\)
+
+### Simple Decisions
+
+As mention earlier, small decisions ideally fit in kanban cards. "Sharing is caring" here simply means keeping the card minimally updated. If a decision didn't change a card or wasn't mentioned on Discord \(directly by the decision maker or delegated to someone else\) then either it is too small \(e.g. only affects you\) or it simply isn't complete.
+
+### Structured Decisions
+
+#### Consent based 
+
+Will usually happen during calls and thus should be logged in a [call tactical](../resources/taticals/) and then to the "Roles & Policies" doc. If outside of a call, please make sure to streamline it to its housing in the [Roles & Policies](https://dao-incubator.gitbook.io/wiki/org/governance) doc
+
+As described in [this proposal](https://docs.google.com/document/d/11QyCfUZVveBDw2Mib8jFKiM-mBZHNbNAbaBve5EylGY/edit?usp=sharing): "Expectations not set in [Roles & Policies](https://dao-incubator.gitbook.io/wiki/org/governance) doc are not valid."
+
+#### Consensus based
+
+Decisions made in Arenas like Loomio, Aragon and others have automated ways of storing decisions outputs - as long as proposals are pictured in a clear and helpful way. 
+
+
 
 ### **Communication is critical to the process.**
 
@@ -14,34 +40,8 @@ The decision-maker is accountable for determining the best format to deliver thi
 
 
 
-#### Decisions outputs
-
-_What are they and where do they go after decisions have been made?_
-
-Documentation, Logs, notifications to impacted parties. Well, from now on, we should house them here in this neat piece of the cyberspace. 
-
-
-
 > "If we can’t report well, we don’t pursue."   
 > @nonprofitbecky
-
-## KISS \(Keep It Small and Simple[\*](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid)\)
-
-If a decision is both small & simple / straightforward & low stakes then it should be anchored to an clear actionable. If not all, most actionables should be listed on our [kanban board](https://trello.com/b/XrAjqdlO/dao-incubator). Thus, our most reliable rule of thumb for simple decision making is:
-
-1. Find/create a card 
-2. Change the card
-3. Validate with peers
-4. Have fun, drink water
-
- Otherwise it is suggested:
-
-* Clearly delegate the actual trello card interaction to someone else
-* If absolutely incompatible with kanban/trello, just write something on Discord
-
-## Structured Decisions
-
-Gladly their structure are more then mere pain in the ass and should have an automated log and/or archive of decisions and interactions. 
 
 ## Where?
 
@@ -80,7 +80,7 @@ Gladly their structure are more then mere pain in the ass and should have an aut
 * Calls
   * Core 
   * WG
-* More?
+  * Ad hoc
 
 ## Environments
 
@@ -102,8 +102,6 @@ This is the release candidate, and this environment is normally a mirror of the 
 
 _Our_ [_public gitbook_](https://dao-incubator.gitbook.io/)  
 This is the currently released version of our work, accessible to the community/end users. This version preferably does not change except for during scheduled releases.
-
-## Signaling and screening games
 
 
 

@@ -24,7 +24,7 @@
 ## Resources
 
 * [Roadmap](resources/roadmap.md)
-* [Taticals](resources/taticals/README.md)
+* [Tactical](resources/taticals/README.md)
   * [Core Tacticals](resources/taticals/core-tacticals.md)
   * [WG Tacticals](resources/taticals/wg-tacticals/README.md)
     * [Tactical \#1](resources/taticals/wg-tacticals/tactical-1.md)

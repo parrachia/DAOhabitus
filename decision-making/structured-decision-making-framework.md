@@ -18,9 +18,9 @@ Structure removes ambiguity around process and should lead to better decisions w
 
  The framework has three stages: **\(1\)** proposal building, **\(2\)** validation, and **\(3\)** decision.
 
-1. **Proposal Building** is about describing what decision we’re making, who needs to make the decision, who is impacted, and when the decision needs to be made.
-2. **Validation** is voting on the options. [x](https://www.loomio.org/g/X5fYj0u1/daoincubator)
-3. **Decision** documents the decision made, the rationale for the decision, and the plan to communicate the decision back to those impacted. _You are here_, this is literally what this proposal is about.
+1. **Proposal Building** is about describing what decision we’re making, who needs to make the decision, who is impacted, and when the decision needs to be made. Done in our Dev Environment \(i.e. freely\)
+2. **Validation** is voting on the options. In a [Decision Arena](https://parrachia.gitbook.io/dao-habitus/~/edit/drafts/-Lb_yhztYRhD12uOf3NS/decision-making/signaling#arenas)
+3. **Decision** documents the decision made, the rationale for the decision, and the plan to communicate the decision back to those impacted. _You are here-ish_, this is literally what this proposal is about.
 
 {% hint style="info" %}
 There are multiple templates, where the **IDM** below is the preferred choice, **Decentraland's framework** is also useful for when it's far away from the next call \(or not enough quorum\) or too big for Trello \(using [Loomio](https://www.loomio.org/g/X5fYj0u1/daoincubator) instead\). 

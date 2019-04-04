@@ -51,6 +51,7 @@ Gladly their structure are more then mere pain in the ass and should have an aut
 
 * **Integrative Decision Making**[**\***](https://docs.google.com/document/d/11QyCfUZVveBDw2Mib8jFKiM-mBZHNbNAbaBve5EylGY/edit?usp=sharing) ****
   * Calls
+    * Tacticals
   * Trello cards
 * **Loomio**
   * Threads

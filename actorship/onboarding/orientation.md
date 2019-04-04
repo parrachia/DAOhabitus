@@ -4,7 +4,7 @@ description: A safe space for newcomers
 
 # Orientation
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 ## Platforms
 

@@ -45,4 +45,5 @@
   * [About](scaffolding/website/about.md)
   * [Team](scaffolding/website/team.md)
 * [Git](scaffolding/git.md)
+* [Ambassadorship](scaffolding/ambassadorship.md)
 

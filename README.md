@@ -22,9 +22,9 @@ _Both as Gitbook spaces \(synced with Github repositories\)_
 
 ## Governance
 
-> “\[If we consider governance:\] the process by which we attempt to establish \(and maintain/revoke\) the legitimacy of decisions, decision making processes, and related governance norms/expectations,”
-
 We can conceive of many ways to establish the legitimacy of decisions. In some contexts, voting can play a critical role. In others, it’s not needed.[\*](https://www.tonysheng.com/voting-governance)
+
+Governance can be considered: "The process by which we attempt to establish \(and maintain/revoke\) the legitimacy of decisions, decision making processes, and related governance norms/expectations."
 
 ### What making decisions looks like?
 
@@ -52,7 +52,7 @@ We can conceive of many ways to establish the legitimacy of decisions. In some c
 
 ## Habitus
 
-The way society becomes deposited in persons in the form of lasting dispositions, or trained capacities and structured propensities to think, feel and act in determinant ways, which then guide them. Created through a social, rather than individual process, leading to patterns that are enduring and transferable from one context to another, but that also shift in relation to specific contexts and over time. Habitus is not fixed or permanent, and can be changed under unexpected situations or over a long historical period.
+The way polity becomes deposited in persons in the form of lasting dispositions, or trained capacities and structured propensities to think, feel and act in determinant ways, which then guide them. Created through a social, rather than individual process, leading to patterns that are enduring and transferable from one context to another, but that also shift in relation to specific contexts and over time. Habitus is not fixed or permanent, and can be changed under unexpected situations or over a long historical period.
 
 [Bourdieu sees power as culturally and symbolically created](https://www.powercube.net/other-forms-of-power/bourdieu-and-habitus/), and constantly re-legitimized through an interplay of agency and structure. The main way this happens is through what he calls ‘habitus’ or socialized norms or tendencies that guide behavior and thinking. _\(Wacquant 2005: 316, cited in Navarro 2006: 16\)._
 

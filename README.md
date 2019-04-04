@@ -26,7 +26,7 @@ _Both as Gitbook spaces \(synced with Github repositories\)_
 
 We can conceive of many ways to establish the legitimacy of decisions. In some contexts, voting can play a critical role. In others, it’s not needed.[\*](https://www.tonysheng.com/voting-governance)
 
-### What making decisions look like?
+### What making decisions looks like?
 
 {% page-ref page="decision-making/" %}
 
@@ -52,14 +52,13 @@ We can conceive of many ways to establish the legitimacy of decisions. In some c
 
 ## Habitus
 
-> Habitus is ‘the way society becomes deposited in persons in the form of lasting dispositions, or trained capacities and structured propensities to think, feel and act in determinant ways, which then guide them’
+The way society becomes deposited in persons in the form of lasting dispositions, or trained capacities and structured propensities to think, feel and act in determinant ways, which then guide them. Created through a social, rather than individual process, leading to patterns that are enduring and transferable from one context to another, but that also shift in relation to specific contexts and over time. Habitus is not fixed or permanent, and can be changed under unexpected situations or over a long historical period.
 
-Bourdieu sees power as culturally and symbolically created, and constantly re-legitimised through an interplay of agency and structure. The main way this happens is through what he calls ‘habitus’ or socialised norms or tendencies that guide behaviour and thinking.   
-_\(Wacquant 2005: 316, cited in Navarro 2006: 16\)._
+[Bourdieu sees power as culturally and symbolically created](https://www.powercube.net/other-forms-of-power/bourdieu-and-habitus/), and constantly re-legitimized through an interplay of agency and structure. The main way this happens is through what he calls ‘habitus’ or socialized norms or tendencies that guide behavior and thinking. _\(Wacquant 2005: 316, cited in Navarro 2006: 16\)._
 
-{% embed url="https://www.powercube.net/other-forms-of-power/bourdieu-and-habitus/" %}
+\[...\] [a theory of structure](https://mens-wisdom-now.blogspot.com/2012/09/structuring-structures-and-structured.html) as both **STRUCTURED** \(opus operatum, and thus open to objectification\) and **STRUCTURING** \(modus operandi, and thus generative of thought and action\).
 
-{% embed url="https://mens-wisdom-now.blogspot.com/2012/09/structuring-structures-and-structured.html" %}
+> “When you feel connected to everything, you also feel responsible for everything. And you cannot turn away. Our destiny is bound with the destinies of others. We must either learn to carry on with the Universe or be crushed by it. We must grow strong enough to love the world, yet empty enough to sit down at the same table with its worst horrors.”
 
 ![](.gitbook/assets/image%20%284%29.png)
 

@@ -22,6 +22,10 @@ May this process provide guidance on how avoid unnecessary costs in low-stakes d
 
 ## KISS \(Keep It Small and Simple[\*](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid)\)
 
+{% hint style="info" %}
+ A simple way to think about simple decisions is to make it fit inside a card in our kanban board.
+{% endhint %}
+
 If a decision is both small & simple / straightforward & low stakes then it should be anchored to an clear actionable. If not all, most actionables should be listed on our [kanban board](https://trello.com/b/XrAjqdlO/dao-incubator). Thus be most reliable rule of thumb for simple decision making is:
 
 1. Find/create a card 

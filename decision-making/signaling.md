@@ -3,17 +3,16 @@
 ![](../.gitbook/assets/decisions-3.png)
 
 {% hint style="info" %}
-After [assessing](risk-assessment.md) and [deciding](./), it is time to make sure that the **rationale** \(either in a explicit or contextual manner\), the actual **decision** and it's **implications** \(be it with simple bread-crumbs or a proposal document\) are properly signaled.
+After [assessing](risk-assessment.md) and [deciding](./), it is time to make sure we reduce information asymmetry and  signal some of the: **rationale** \(either in a explicit or contextual manner\), the actual **decision** and it's **implications** \(be it with simple bread-crumbs or a proposal document\).
 {% endhint %}
-
-> "If we can’t report well, we don’t pursue."   
-> @nonprofitbecky
 
 ### **Communication is critical to the process.**
 
 > A decision is not complete until all impacted by that decision are notified. if you'd never abandon a puppy, why abandon decisions outputs? Think about the puppies.
 
-The decision-maker is accountable for determining the best format to deliver this communication. For example, if everybody is highly impacted, an email to all employees may be the best way to communicate the decision. If nobody is directly impacted today, an FYI in a slack channel and a note in a design doc may be sufficient.
+The decision-maker is accountable for determining the best format to deliver this communication. For example, if everybody is highly impacted, an direct message to all team mates may be the best way to communicate the decision. If nobody is directly impacted today, an FYI in a slack channel and a note in a design doc may be sufficient.
+
+
 
 #### Decisions outputs
 
@@ -22,6 +21,9 @@ _What are they and where do they go after decisions have been made?_
 Documentation, Logs, notifications to impacted parties. Well, from now on, we should house them here in this neat piece of the cyberspace. 
 
 
+
+> "If we can’t report well, we don’t pursue."   
+> @nonprofitbecky
 
 ## KISS \(Keep It Small and Simple[\*](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid)\)
 

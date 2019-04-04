@@ -1,5 +1,7 @@
 # Code of Conduct
 
+
+
 {% hint style="info" %}
 This is a loose adaptation from DAOstack code of conduct and should be improved ASAP
 {% endhint %}

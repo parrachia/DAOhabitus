@@ -4,6 +4,8 @@ description: A safe space for newcomers
 
 # Orientation
 
+![](../../.gitbook/assets/image%20%284%29.png)
+
 ## Platforms
 
 New members can use this list to access our permissioned tools and platforms:  
@@ -16,6 +18,10 @@ Both Gitbooks should pretty much cover that:
 This one you're at is supposed to work as our Staging Environment:
 
 {% embed url="https://parrachia.gitbook.io/dao-habitus/" %}
+
+{% page-ref page="../../decision-making/" %}
+
+{% page-ref page="../code-of-conduct/" %}
 
 While this is our official, public one - our Production Environment:
 

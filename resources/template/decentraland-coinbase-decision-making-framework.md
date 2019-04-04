@@ -1,3 +1,7 @@
+---
+description: 'Kinda raw ATM, we will hopefully contextualize it further in the future'
+---
+
 # Decentraland / Coinbase Decision-making Framework
 
 ## 1. Set the parameters

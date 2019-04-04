@@ -15,21 +15,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Community 
 
-Any person or entity that interacts with us through public channels
+> _Community is about ownership — feeling not just that I am part of something bigger than myself, but that I have some skin in the game. It doesn’t matter so much whether that stake is economic or not — in fact I think non-economic stake \(e.g. reputation\) can be a much bigger motivator. — Lane Rettig, Independent Ethereum Core Developer \(_[_source_](https://twitter.com/lrettig/status/1037685148681216000)_\)_
 
 * Follow [Code of Conduct](code-of-conduct/) \(don't be an ass\)
 * MESH - Manage, Engage, Share, Help
-
-> _Community is about ownership — feeling not just that I am part of something bigger than myself, but that I have some skin in the game. It doesn’t matter so much whether that stake is economic or not — in fact I think non-economic stake \(e.g. reputation\) can be a much bigger motivator. \(_[_source_](https://twitter.com/lrettig/status/1037685148681216000)_\)_
-
-> _— Lane Rettig, Independent Ethereum Core Developer_
 
 ### Collaborator
 
 Those who labors with us; an associate in labor.
 
 * Community's list
-* Soft Accountability 
+* [Soft Accountability ](code-of-conduct/accountability.md)
 
 ### Team
 
@@ -37,7 +33,7 @@ That's us.
 
 * Collaborator's list
 * Liveness 
-* Hard Accountability
+* [Hard Accountability](code-of-conduct/accountability.md)
 
 
 

@@ -60,7 +60,7 @@ The way society becomes deposited in persons in the form of lasting dispositions
 
 > “When you feel connected to everything, you also feel responsible for everything. And you cannot turn away. Our destiny is bound with the destinies of others. We must either learn to carry on with the Universe or be crushed by it. We must grow strong enough to love the world, yet empty enough to sit down at the same table with its worst horrors.”
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 
 

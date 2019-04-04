@@ -28,11 +28,17 @@ There are multiple templates, where the **IDM** below is the preferred choice, *
 
 ### Consent based \(default\)
 
+IDM is developed for self-organized environment but optimized for speed & efficiency. The core principle is consent \(**nobody objects**\), instead of consensus \(**all support**\) for setting expectations.
+
 {% page-ref page="../resources/template/integrative-decision-making.md" %}
 
 ### Consensus based
 
+Whenever IDM is not the best fit \(e.g. not enough quorum\) using a dedicated decision [arena](https://parrachia.gitbook.io/dao-habitus/~/edit/drafts/-Lb_yhztYRhD12uOf3NS/decision-making/signaling#arenas) like Loomio should do the trick
+
 {% page-ref page="../resources/template/loomio-best-practices.md" %}
+
+Finally, if you ever feel like in need for a in depth structured decision guide, feel free to check this framework out: 
 
 {% page-ref page="../resources/template/decentraland-coinbase-decision-making-framework.md" %}
 

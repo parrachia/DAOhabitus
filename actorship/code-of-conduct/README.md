@@ -15,6 +15,8 @@ This is a loose adaptation from DAOstack code of conduct and should be improved 
 
 ## References
 
+{% embed url="https://john.do/org-trust/" %}
+
 {% embed url="https://wiki.aragon.org/documentation/Code\_of\_Conduct/" %}
 
 {% embed url="https://medium.com/s/story/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1" %}

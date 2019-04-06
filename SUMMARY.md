@@ -8,7 +8,6 @@
   * [Signaling](decision-making/signaling.md)
 * [Actorship](actorship/README.md)
   * [Onboarding](actorship/onboarding/README.md)
-    * [Application Templates](actorship/onboarding/application-template.md)
     * [Ledger of Membership Lineage](actorship/onboarding/ledger-of-membership-lineage.md)
     * [Orientation](actorship/onboarding/orientation.md)
   * [Code of Conduct](actorship/code-of-conduct/README.md)
@@ -29,6 +28,7 @@
   * [WG Tacticals](resources/taticals/wg-tacticals/README.md)
     * [Tactical \#1](resources/taticals/wg-tacticals/tactical-1.md)
 * [Templates](resources/template/README.md)
+  * [Application Templates](resources/template/application-template.md)
   * [Integrative Decision Making](resources/template/integrative-decision-making.md)
   * [Loomio - Best practices](resources/template/loomio-best-practices.md)
   * [Decentraland / Coinbase Decision-making Framework](resources/template/decentraland-coinbase-decision-making-framework.md)
@@ -46,4 +46,5 @@
   * [Team](scaffolding/website/team.md)
 * [Git](scaffolding/git.md)
 * [Ambassadorship](scaffolding/ambassadorship.md)
+* [Governance Proposals](scaffolding/governance-proposals.md)
 

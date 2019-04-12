@@ -1,5 +1,9 @@
 # References
 
+{% embed url="https://corporate-rebels.com/guestblog-firing-round/" %}
+
+
+
 [https://www.tonysheng.com/voting-governance](https://www.tonysheng.com/voting-governance)
 
 [https://www.tonysheng.com/decision-making](https://www.tonysheng.com/decision-making#fn:1)

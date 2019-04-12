@@ -32,7 +32,8 @@
   * [Integrative Decision Making](resources/template/integrative-decision-making.md)
   * [Loomio - Best practices](resources/template/loomio-best-practices.md)
   * [Decentraland / Coinbase Decision-making Framework](resources/template/decentraland-coinbase-decision-making-framework.md)
-* [References](resources/references.md)
+* [References](resources/references/README.md)
+  * [Resources for decentralized organizing](resources/references/resources-for-decentralized-organizing.md)
 * [Memes](resources/memes.md)
 
 ## Scaffolding

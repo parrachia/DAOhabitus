@@ -48,4 +48,5 @@
 * [Git](scaffolding/git.md)
 * [Ambassadorship](scaffolding/ambassadorship.md)
 * [Governance Proposals](scaffolding/governance-proposals.md)
+* [Reading List](scaffolding/reading-list.md)
 

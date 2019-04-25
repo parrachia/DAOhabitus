@@ -8,6 +8,8 @@ After a successful decision-making about onboarding a new member, their "lineage
 | :--- | :--- | :--- |
 | Cem | Tuna Ozen | April 2nd, 2019 |
 | Cem | Lili | April 3rd, 2019 |
+| Pedro | Livia | April 25th, 2019 |
+| Pedro | Erik | April 25th, 2019 |
 
 
 

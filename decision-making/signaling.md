@@ -22,7 +22,7 @@ As mention earlier, small decisions ideally fit inside kanban cards. "Sharing is
 
 #### Consent based 
 
-Will usually happen during calls and thus should be logged in a [call tactical](../resources/taticals/) and then to the "[Roles & Policies](https://dao-incubator.gitbook.io/wiki/org/governance)" doc. If outside of a call, please make sure to streamline it to its housing. By either DIY or asking the comms circle's help.
+Will usually happen during calls and thus should be logged in a [call tactical](../resources/taticals.md) and then to the "[Roles & Policies](https://dao-incubator.gitbook.io/wiki/org/governance)" doc. If outside of a call, please make sure to streamline it to its housing. By either DIY or asking the comms circle's help.
 
 #### Consensus based
 

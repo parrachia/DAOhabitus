@@ -23,11 +23,9 @@
 ## Resources
 
 * [Roadmap](resources/roadmap.md)
-* [Tactical](resources/taticals/README.md)
-  * [Core Tacticals](resources/taticals/core-tacticals.md)
-  * [WG Tacticals](resources/taticals/wg-tacticals/README.md)
-    * [Tactical \#1](resources/taticals/wg-tacticals/tactical-1.md)
+* [Tactical](resources/taticals.md)
 * [Templates](resources/template/README.md)
+  * [Outreach Letter](resources/template/outreach-letter.md)
   * [Application Templates](resources/template/application-template.md)
   * [Integrative Decision Making](resources/template/integrative-decision-making.md)
   * [Loomio - Best practices](resources/template/loomio-best-practices.md)

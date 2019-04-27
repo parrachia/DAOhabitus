@@ -9,6 +9,7 @@ description: A safe space for newcomers
 ## Platforms
 
 New members can use this list to access our permissioned tools and platforms:  
+[Discord](https://discord.gg/Mn4Kysv)
 [Trello](https://trello.com/invite/b/XrAjqdlO/191113786867c796fc3ca07d77d4653d/dao-incubator)  
 [Loomio](https://www.loomio.org/join/group/7MsurmEt4ni8GRyrP6K21qA2/)
 
